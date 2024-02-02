@@ -459,6 +459,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/Wvvatt" title="wVVaTT">
   <img src="https://avatars.githubusercontent.com/u/38394031?v=4" width="42;" alt="wVVaTT"/>
 </a>
+<a href="https://github.com/gggwvg" title="gggwvg">
+  <img src="https://avatars.githubusercontent.com/u/6913118?v=4" width="42;" alt="gggwvg"/>
+</a>
 <a href="https://github.com/BingCoke" title="BingCoke">
   <img src="https://avatars.githubusercontent.com/u/81607010?v=4" width="42;" alt="BingCoke"/>
 </a>
@@ -470,9 +473,6 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 </a>
 <a href="https://github.com/RichardLCD" title="RichardLCD">
   <img src="https://avatars.githubusercontent.com/u/41584321?v=4" width="42;" alt="RichardLCD"/>
-</a>
-<a href="https://github.com/gggwvg" title="gggwvg">
-  <img src="https://avatars.githubusercontent.com/u/6913118?v=4" width="42;" alt="gggwvg"/>
 </a>
 <a href="https://github.com/Dazhuangw" title="Dazhuangw">
   <img src="https://avatars.githubusercontent.com/u/74780009?v=4" width="42;" alt="Dazhuangw"/>
@@ -486,6 +486,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/XingwenZhang" title="Xingwen Zhang">
   <img src="https://avatars.githubusercontent.com/u/21063553?v=4" width="42;" alt="Xingwen Zhang"/>
 </a>
+<a href="https://github.com/ischenyu" title="Shan Chenyu">
+  <img src="https://avatars.githubusercontent.com/u/103872353?v=4" width="42;" alt="Shan Chenyu"/>
+</a>
 <a href="https://github.com/sfwwslm" title="sfwwslm">
   <img src="https://avatars.githubusercontent.com/u/77674552?v=4" width="42;" alt="sfwwslm"/>
 </a>
@@ -495,11 +498,14 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/oliver-zch" title="oliver">
   <img src="https://avatars.githubusercontent.com/u/49701721?v=4" width="42;" alt="oliver"/>
 </a>
+<a href="https://github.com/shhch" title="shc">
+  <img src="https://avatars.githubusercontent.com/u/46923522?v=4" width="42;" alt="shc"/>
+</a>
 <a href="https://github.com/z-anshun" title="noodles2hg">
   <img src="https://avatars.githubusercontent.com/u/57032282?v=4" width="42;" alt="noodles2hg"/>
 </a>
-<a href="https://github.com/shhch" title="shc">
-  <img src="https://avatars.githubusercontent.com/u/46923522?v=4" width="42;" alt="shc"/>
+<a href="https://github.com/miniwater" title="miniwater">
+  <img src="https://avatars.githubusercontent.com/u/14000053?v=4" width="42;" alt="miniwater"/>
 </a>
 <a href="https://github.com/myliwenbo" title="myliwenbo">
   <img src="https://avatars.githubusercontent.com/u/29202248?v=4" width="42;" alt="myliwenbo"/>
@@ -563,9 +569,6 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 </a>
 <a href="https://github.com/daydaygo" title="dayday">
   <img src="https://avatars.githubusercontent.com/u/3986303?v=4" width="42;" alt="dayday"/>
-</a>
-<a href="https://github.com/RocherKong" title="Rocher">
-  <img src="https://avatars.githubusercontent.com/u/10215178?v=4" width="42;" alt="Rocher"/>
 </a>
 <a href="https://github.com/HDsky" title="黑&蛋">
   <img src="https://avatars.githubusercontent.com/u/17249963?v=4" width="42;" alt="黑&蛋"/>
@@ -732,6 +735,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/DaYangtuo247" title="DaYangtuo247">
   <img src="https://avatars.githubusercontent.com/u/73392515?v=4" width="42;" alt="DaYangtuo247"/>
 </a>
+<a href="https://github.com/Azroys" title="Azroy">
+  <img src="https://avatars.githubusercontent.com/u/73465351?v=4" width="42;" alt="Azroy"/>
+</a>
 <a href="https://github.com/apnpc" title="Alan">
   <img src="https://avatars.githubusercontent.com/u/39884597?v=4" width="42;" alt="Alan"/>
 </a>
@@ -807,9 +813,6 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/Azolla" title="Azolla">
   <img src="https://avatars.githubusercontent.com/u/65333936?v=4" width="42;" alt="Azolla"/>
 </a>
-<a href="https://github.com/ischenyu" title="Shan Chenyu">
-  <img src="https://avatars.githubusercontent.com/u/103872353?v=4" width="42;" alt="Shan Chenyu"/>
-</a>
 <a href="https://github.com/seven-steven" title="SevenSteven">
   <img src="https://avatars.githubusercontent.com/u/13358658?v=4" width="42;" alt="SevenSteven"/>
 </a>
@@ -818,6 +821,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 </a>
 <a href="https://github.com/xinshangshangxin" title="殇">
   <img src="https://avatars.githubusercontent.com/u/8779091?v=4" width="42;" alt="殇"/>
+</a>
+<a href="https://github.com/RocherKong" title="Rocher">
+  <img src="https://avatars.githubusercontent.com/u/10215178?v=4" width="42;" alt="Rocher"/>
 </a><!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->
 
 贡献者列表，由 [contributors](https://github.com/jaywcjlove/github-action-contributors) 自动生成
